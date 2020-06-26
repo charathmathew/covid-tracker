@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+This a simple global covid-tracker application made using React.js. Material-UI and Chart.js were also used for the UI and data visualization. 
+The application provides covid-19 data on a global scale as well as on per country basis.
+
+The API used to retrieve the data is https://covid19.mathdro.id/api
+
 ## Available Scripts
 
 In the project directory, you can run:
