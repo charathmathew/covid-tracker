@@ -11,7 +11,7 @@ The API used to retrieve the data is https://covid19.mathdro.id/api
 ![screenshot](https://github.com/charathmathew/covid-tracker/blob/master/covidTracker.PNG)
 
 
-Live Site: ('https://blissful-shockley-80f55f.netlify.app')
+Live Site: https://blissful-shockley-80f55f.netlify.app
 ## Available Scripts
 
 In the project directory, you can run:
